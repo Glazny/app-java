@@ -1,9 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Welcome to the Java Pipeline Demo!");
-        for (int i = 5; i >= 0; i--) {
-            System.out.println("Countdown: " + i);
+                System.out.println("1. Piotr");
+                System.out.println("2. Anna");
+                System.out.println("3. Jan");
+                System.out.println("4. Leszek");
+            }
         }
-        System.out.println("Launch complete!");
-    }
-}
